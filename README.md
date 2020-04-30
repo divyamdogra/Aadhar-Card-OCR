@@ -1,5 +1,5 @@
 # Aadhar-Card-OCR
-<h2>This Python code will extract data from your Aadhar Card like id_number, Date of Birth and also it extract the photo from Aadhar card.<h2>
+<h2> This Python code will extract data from your Aadhar Card like id_number, Date of Birth and also it extract the photo from Aadhar card.<h2>
 
 
 ![AADHAR CARD](https://user-images.githubusercontent.com/48207530/80412143-02917280-88eb-11ea-9099-029ec222554a.jpg)
